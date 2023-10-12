@@ -1,0 +1,207 @@
+<<I kindly thank the authors of the open-access data that I've used in this project>>
+[1]
+OLID: Offensive Language Identification Dataset (https://github.com/idontflow/olid)
+@inproceedings{zampierietal2019, 
+title={{Predicting the Type and Target of Offensive Posts in Social Media}}, 
+author={Zampieri, Marcos and Malmasi, Shervin and Nakov, Preslav and Rosenthal, Sara and Farra, Noura and Kumar, Ritesh}, 
+booktitle={Proceedings of NAACL}, 
+year={2019}, 
+}
+==> (cleaned with "cleaning_function.ipynb")
+[2]
+Translation:Tao Te Ching (https://en.wikisource.org/wiki/Translation:Tao_Te_Ching)
+NOTE: I've transformed the text (ref., both the first chapter and full book) to only include the English parts, which should be in line with
+the Creative Commons Attribution-ShareAline 2.0 Generic lincense quoted below:
+
+ This work is a translation and has a separate copyright status to the applicable copyright protections of the original content.
+
+Original:
+
+
+
+This work was published before January 1, 1928, and is in the public domain worldwide because the author died at least 100 years ago.
+
+
+
+
+
+Translation:
+
+
+
+This work is licensed under the terms of the GNU Free Documentation License.
+
+
+
+
+
+The Terms of use of the Wikimedia Foundation require that GFDL-licensed text imported after November 2008 must also be dual-licensed with another compatible license. "Content available only under GFDL is not permissible" (§7.4). This does not apply to non-text media.
+
+
+
+
+
+This work is released under the Creative Commons Attribution-ShareAlike 2.0 Generic license, which allows free use, distribution, and creation of derivatives, so long as the license is unchanged and clearly noted, and the original author is attributed—and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license as this one.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource[1]. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported[2] license or, at your choice, those of the GNU FDL[3].
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page[4].
+
+The following users contributed to this book:
+
+百家姓之四
+
+Pasicles
+
+Luthinya~enwikisource
+
+Omnipaedista
+
+Nikoladie
+
+Neo-Jay
+
+Pathoschild
+
+Zyephyrus
+
+John Vandenberg
+
+Amire80
+
+Me, Myself, and I are Here
+
+Myal27
+
+EncycloPetey
+
+Bookofjude
+
+BirgitteSB
+
+KhanzotChinev
+
+Nissimnanach
+
+Cuaxdon
+
+Ö
+
+Tene~commonswiki
+
+Odder
+
+Link Mauve
+
+Sertion
+
+Be..anyone
+
+Abu badali~commonswiki
+
+Kyle the hacker
+
+Cumulus
+
+Noclip~commonswiki
+
+KABALINI
+
+Latebird
+
+Auralux
+
+Waldyrious
+
+AzaToth
+
+Á
+
+Wondigoma
+
+Abigor
+
+ToBeFree
+
+Boris23
+
+Bromskloss
+
+Bender235
+
+Guillom
+
+Prosfilaes
+
+Zscout370
+
+OwenBlacker
+
+Billinghurst
+
+Juergen Fiedler
+
+DeirdreAnne
+
+LungZeno~enwikisource
+
+Kaldari
+
+Rigadoun
+
+Yann
+
+Ser be etre shi
+
+Xover
+
+LaMagiaaa
+
+CandalBot
+
+Santoposmoderno
+
+Nysalor
+
+RandomCanadian
+
+Mat0329Lo
+
+Kwj2772
+
+EclecticArkie
+
+Masur
+
+Rillke
+
+Leonel Sohns
+
+Rocket000
+
+PatríciaR
+
+
+
+
+
+* * *
+
+
+
+↑ https://en.wikisource.org
+
+↑ https://www.creativecommons.org/licenses/by-sa/4.0
+
+↑ https://www.gnu.org/copyleft/fdl.html
+
+↑ https://en.wikisource.org/wiki/Wikisource:Scriptorium
